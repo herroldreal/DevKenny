@@ -69,4 +69,11 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Kotlin       14 hrs 15 mins  █████████████▒░░░░░░░░░░░   52.79 % 
+XML          7 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 % 
+TypeScript   4 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Groovy       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Java         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+```
 <!--END_SECTION:waka-->
