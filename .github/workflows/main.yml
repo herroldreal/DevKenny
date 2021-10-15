@@ -8,9 +8,16 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
