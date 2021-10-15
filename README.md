@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,7 +82,8 @@ Here are some ideas to get you started:
 > 📜 5 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
- > 
+
+
 **I'm an Early 🐤** 
 
 ```text
