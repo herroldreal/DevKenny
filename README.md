@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 📈 My Programming Stats
 
 <p align="center">
- <img src="https://github.com/DevKenny/DevKenny/blob/master/assets/coder.gif" alt="Coder GIF" style="max-width:500px">
+ <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coder GIF" style="max-width:500px">
 </p>
 
 <!--START_SECTION:waka-->
