@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**buster95/buster95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevKenny/DevKenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,56 +16,56 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buster95&count_private=true&show_icons=true&theme=graywhite&line_height=30&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buster95&hide=html,css&theme=graywhite&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKenny&count_private=true&show_icons=true&theme=graywhite&line_height=30&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKenny&hide=html,css&theme=graywhite&hide_border=true">
 </p>
 
 ## 📫 How to Reach Me
 
 <p align="center">
- <a href="https://buster95.github.io">
-  <img src="https://img.shields.io/badge/buster95-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+ <a href="https://devkenny.github.io">
+  <img src="https://img.shields.io/badge/DevKenny-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
 
- <a href="https://www.linkedin.com/in/walter-corrales">
+ <a href="https://www.linkedin.com/in/hreal92">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
- <a href="https://join.skype.com/invite/sHS1s5NqCXhJ">
+ <a href="https://join.skype.com/invite/IQ6gVADlpBSM">
   <img src="https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
  </a>
 
- <a href="mailto:walter.r.corrales@gmail.com">
+ <a href="mailto:realherrold@gmail.com">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
 
- <a href="https://wa.me/50585154220">
+ <a href="https://wa.me/50589517503">
   <img src="https://img.shields.io/badge/Whatsapp-%2300BFA5.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" />
  </a>
 </p>
 
 <p align="center">
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/visits/buster95/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://DevKenny.github.io">
+    <img src="https://badges.pufler.dev/visits/DevKenny/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/years/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://DevKenny.github.io">
+    <img src="https://badges.pufler.dev/years/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/repos/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://DevKenny.github.io">
+    <img src="https://badges.pufler.dev/repos/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/gists/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://DevKenny.github.io">
+    <img src="https://badges.pufler.dev/gists/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/commits/monthly/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://DevKenny.github.io">
+    <img src="https://badges.pufler.dev/commits/monthly/DevKenny?style=flat-square&color=green&logo=github">
   </a>
 </p>
 
 ## 📈 My Programming Stats
 
 <p align="center">
- <img src="https://github.com/buster95/buster95/blob/master/assets/coder.gif" alt="Coder GIF" style="max-width:500px">
+ <img src="https://github.com/DevKenny/DevKenny/blob/master/assets/coder.gif" alt="Coder GIF" style="max-width:500px">
 </p>
 
 <!--START_SECTION:waka-->
