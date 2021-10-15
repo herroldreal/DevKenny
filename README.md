@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevKenny&count_private=true&show_icons=true&theme=graywhite&line_height=30&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKenny&hide=html,css&theme=graywhite&hide_border=true">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKenny&theme=vue)
 </p>
 
 ## 📫 How to Reach Me
@@ -67,8 +68,6 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coder GIF" style="max-width:500px">
 </p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
