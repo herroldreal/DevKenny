@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://DevKenny.github.io">
+  <a href="#">
     <img src="https://badges.pufler.dev/visits/DevKenny/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://DevKenny.github.io">
+  <a href="#">
     <img src="https://badges.pufler.dev/years/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://DevKenny.github.io">
+  <a href="#">
     <img src="https://badges.pufler.dev/repos/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://DevKenny.github.io">
+  <a href="#">
     <img src="https://badges.pufler.dev/gists/DevKenny?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://DevKenny.github.io">
+  <a href="#">
     <img src="https://badges.pufler.dev/commits/monthly/DevKenny?style=flat-square&color=green&logo=github">
   </a>
 </p>
