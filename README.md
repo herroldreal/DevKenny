@@ -74,13 +74,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 153 Contributions in the Year 2021
+> 🏆 154 Contributions in the Year 2021
  > 
 > 📦 167.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -151,5 +151,5 @@ Java                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 09/11/2021
 <!--END_SECTION:waka-->
