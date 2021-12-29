@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C462%20hrs%2010%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -115,19 +113,16 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Managua
 
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ███████████████████████░░   91.75% 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
-tsconfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pideun-api               1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
