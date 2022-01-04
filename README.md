@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C462%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -115,16 +113,21 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Managua
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              ███████████████████░░░░░░   75.6% 
+YAML                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.49% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+storage-account-queues-ai2 mins              █████████████░░░░░░░░░░░░   54.35% 
+pideun-api               0 secs              █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+auto-update-dependencies-0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.49%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.0%
 
 ```
 
