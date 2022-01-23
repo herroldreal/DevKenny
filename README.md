@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C501%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C505%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 > 🏆 25 Contributions in the Year 2022
  > 
-> 📦 167.4 kB Used in GitHub's Storage 
+> 📦 167.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -151,5 +151,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/01/2022 12:48:35 UTC
+ Last Updated on 23/01/2022 01:26:40 UTC
 <!--END_SECTION:waka-->
