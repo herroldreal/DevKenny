@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C785%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C789%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -140,11 +140,11 @@ Linux                    31 hrs 20 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Kotlin                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Kotlin                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 
 ```
 
@@ -154,5 +154,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 13:23:23 UTC
+ Last Updated on 12/05/2022 00:25:47 UTC
 <!--END_SECTION:waka-->
