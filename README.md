@@ -154,5 +154,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 12:16:52 UTC
+ Last Updated on 13/07/2022 12:19:15 UTC
 <!--END_SECTION:waka-->
