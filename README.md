@@ -70,19 +70,19 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C086%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C086%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 66 Contributions in the Year 2022
+> 🏆 67 Contributions in the Year 2022
  > 
-> 📦 230.1 kB Used in GitHub's Storage 
+> 📦 241.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -142,11 +142,11 @@ Android                  4 mins              █░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Kotlin                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Kotlin                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 
@@ -156,5 +156,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 12:23:32 UTC
+ Last Updated on 25/07/2022 00:26:53 UTC
 <!--END_SECTION:waka-->
