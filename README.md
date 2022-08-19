@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -115,16 +115,22 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Managua
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               19 hrs 19 mins      ██████████████░░░░░░░░░░░   57.24% 
+JavaScript               9 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   27.35% 
+JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+SQL                      1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Text                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 33 hrs 46 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wizard-cms-integration   31 hrs 9 mins       ███████████████████████░░   92.25% 
+airbyte-sources-wizard   2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
+wizard-backend-content-ma11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    33 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -145,5 +151,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 12:12:49 UTC
+ Last Updated on 19/08/2022 12:15:52 UTC
 <!--END_SECTION:waka-->
