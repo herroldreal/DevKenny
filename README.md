@@ -115,23 +115,16 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Managua
 
 💬 Programming Languages: 
-TypeScript               18 hrs 10 mins      ██████████████░░░░░░░░░░░   55.52% 
-JavaScript               12 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   38.0% 
-Jenkinsfile              1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-Text                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 32 hrs 12 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wizard-cms-integration   29 hrs 27 mins      ██████████████████████░░░   90.74% 
-airbyte-sources-wizard   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-wizard-backend-content-ma15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
-airbyte                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    32 hrs 12 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -152,5 +145,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 12:10:02 UTC
+ Last Updated on 19/08/2022 12:12:49 UTC
 <!--END_SECTION:waka-->
