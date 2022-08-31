@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 > 🏆 134 Contributions in the Year 2022
  > 
-> 📦 242.8 kB Used in GitHub's Storage 
+> 📦 242.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -153,5 +153,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 12:23:01 UTC
+ Last Updated on 31/08/2022 13:12:30 UTC
 <!--END_SECTION:waka-->
