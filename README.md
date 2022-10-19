@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C415%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C409%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -153,5 +153,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevKenny/DevKenny/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 00:49:25 UTC
+ Last Updated on 19/10/2022 12:12:35 UTC
 <!--END_SECTION:waka-->
